@@ -16,5 +16,5 @@ var n = prompt('enter the length of yopr fibonachi needs:')
     return s;
   }
 };
-var series = fibonachi(5);
+var series = fibonachi(n);
 alert(series);
